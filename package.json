@@ -34,7 +34,7 @@
     "autoprefixer-stylus": "0.14.0",
     "cheerio": "0.22.0",
     "chokidar": "^2.0.4",
-    "handlebars": "4.0.11",
+    "handlebars": "4.7.7",
     "jstransformer-handlebars": "1.1.0",
     "junk": "2.1.0",
     "lodash.defaultsdeep": "4.6.0",
@@ -61,7 +61,7 @@
     "strftime": "0.10.0"
   },
   "devDependencies": {
-    "faucet": "^0.0.1",
+    "faucet": "^0.0.4",
     "htmllint-cli": "^0.0.6",
     "nock": "^9.5.0",
     "pre-commit": "^1.2.2",
